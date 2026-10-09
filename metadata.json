@@ -1,0 +1,8 @@
+{
+  "name": "Sathyabama Hospital Medicine System",
+  "description": "Smart pharmacy operations and automated medicine inventory control dashboard for clinical healthcare environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
